@@ -1,6 +1,8 @@
 # Gradio Hello World Example
 
-This repository contains a simple python application to help you get started with Gradio.
+Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere! This repository contains a simple application and dev container to help you get started.
+
+https://www.gradio.app/
 
 ## Get Started
 ### Codespaces
