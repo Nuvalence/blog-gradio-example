@@ -1,4 +1,4 @@
-# Gradio Hello World Example
+# Gradio Example Dev Container
 
 Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere! This repository contains a simple application and dev container to help you get started.
 
